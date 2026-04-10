@@ -1,0 +1,24 @@
+#  Autonomous Campus Security System (Arduino)
+
+##  Description
+
+This repository contains my undergraduate thesis on designing a low-cost autonomous security system using Arduino to improve campus safety.
+
+##  Thesis
+
+You can read the full thesis here:
+👉 [Download Thesis](Autonomous_Campus_Security_System.pdf)
+
+##  Objective
+
+To detect motion and alert users in case of intrusion using sensors and an alarm system.
+
+##  Tools & Technologies
+
+* Arduino
+* Embedded Systems
+* Sensors (PIR, Ultrasonic)
+
+##  Author
+
+Armand Bukama
